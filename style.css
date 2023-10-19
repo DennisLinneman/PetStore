@@ -1,4 +1,4 @@
-/* Navbar styles */
+
 .navbar {
     background-color: #006e90;
 }
@@ -12,7 +12,6 @@
     color: #adcad6;
 }
 
-/* Style the welcome section */
 .welcome-section {
     background-color: #99c24d;
     padding: 50px 0;
@@ -30,7 +29,6 @@
     color: #555;
 }
 
-/* Style buttons */
 .btn {
     background-color: #006e90;
     color: #fff;
@@ -43,7 +41,6 @@
     color: #fff;
 }
 
-/* Style the About Us section */
 .about-us-section {
     position: relative;
     overflow: hidden;
@@ -81,14 +78,12 @@
     padding-left: 0;
 }
 
-/* Style the footer */
 .footer {
     background-color: #006e90;
     color: #fff;
     text-align: center;
 }
 
-/* Additional CSS for the contact section */
 .contact-section {
     display: flex;
     justify-content: center;
@@ -120,7 +115,6 @@
     margin-bottom: 20px;
 }
 
-/* Style for the contact info */
 .contact-info {
     margin-bottom: 20px;
 }
