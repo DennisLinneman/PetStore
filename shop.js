@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function () {
       title: "Bear",
       image: "./imgs/dagmar-klauzova-GYPGWXYDIrE-unsplash.jpg",
       price: "$700-1,300",
-      description: "Say hello to this gentle and growing Bernese Mountain Dog pup. At just a few months old, this fluffy ball of fur already embodies the breed's loyal nature and loving disposition."
+      description: "Say hello to this gentle and growing Bernese Mountain Dog pup. At just a few months old, Bear already embodies the breed's loyal nature and loving disposition."
     },
     {
       title: "Sunny",
@@ -43,20 +43,20 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       title: "Finn",
       image: "./imgs/dominik-kempf-qrQZLUOvEOA-unsplash.jpg",
-      price: "$500-1,000",
-      description: "Info: Information about this pet."
+      price: "$600-1,000",
+      description: "Meet Finn. With a unique charm and playful spirit, Finn is a delightful companion. Whether running in the park or lounging at home, Finn's cheerful personality will brighten your days."
     },
     {
       title: "Rae",
       image: "./imgs/finge-holden-TDOM2os-JYs-unsplash.jpg",
       price: "$500-1,000",
-      description: "Info: Information about this pet."
+      description: "Rae is an Australian Shepherd: A dynamic and intelligent companion with striking merle patterns, Rae's boundless energy and loyalty make him the perfect adventure buddy and a loving addition to any family."
     },
     {
       title: "Bandit",
       image: "./imgs/toan-chu-VEzDhGMlyb8-unsplash.jpg",
       price: "$1,000-2,000",
-      description: "This adorable pet raccoon, named Bandit, has a mischievous twinkle in its eyes and a penchant for playful antics. With its distinctive black mask and bushy tail, Bandit is both a charming and curious companion."
+      description: "This adorable pet raccoon, named Bandit, has a mischievous twinkle in its eyes. With its distinctive black mask and bushy tail, Bandit is both a charming and curious companion."
     },
   ];
 
