@@ -82,6 +82,7 @@
     background-color: #006e90;
     color: #fff;
     text-align: center;
+    
 }
 
 .contact-section {
@@ -147,4 +148,20 @@
     margin: 0 10px; 
     font-size: 24px;
     color: #333;
+}
+
+.contact-form-block {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 30px;
+    color: #333;
+    border-radius: 10px;
+    text-align: center;
+    width: 70%;
+    max-width: 500px;
+  
+}
+.contact-block {
+
+    max-width: 800px;
+    margin: 0 auto;
 }
